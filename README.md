@@ -12,7 +12,7 @@ Because I work full-time as an Operations Manager, I can only code in the evenin
 
 I'm particularly interested in language and text processing. My main language is Python and my most recent project is a command-line [malaphor generator](https://github.com/rachel-meadows/malaphor).
 
-In the process of working on this project, I also learned a little SQLite. At some point I'd also like to learn Django or Flask to make it accessible from the front end.
+In the process of working on this project, I also learned a little SQLite. At some point I plan to learn Django or Flask to make it accessible from the front end.
 
 ## My goals
 
