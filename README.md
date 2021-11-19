@@ -6,8 +6,6 @@ I'm currently in the process of teaching myself CSS, HTML and JavaScript in prep
 
 To help with this, I'm using _The Odin Project_ and a variety of online tutorials.
 
-Because I work full-time as an Operations Manager, I can only code in the evenings and weekends... still, progress is being made!
-
 ## Interested in...
 
 I'm particularly interested in language and text processing. My main language is Python and my most recent project is a command-line [malaphor generator](https://github.com/rachel-meadows/malaphor).
