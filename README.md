@@ -1,33 +1,27 @@
 # Hi, I’m Rachel!
 
-## Where I've come from:
-I recently graduated from [**Enspiral Dev Academy**](https://devacademy.co.nz/), an intensive, 15-week web development bootcamp, where I learned technologies and skills such as:
+## 💻 Where I'm at:
+I'm a full-stack junior software engineer. In my day-to-day I work mostly with C# / .NET and SQL Server, but I have experience in React / Node.js as well and tend to use JavaScript for my personal projects.
+
+Before starting work as a developer, I retrained at [Enspiral Dev Academy](https://devacademy.co.nz/), an intensive web development bootcamp. They taught technologies and skills such as:
 - JavaScript (ES6)
 - Node.js and Express.js
 - React and Redux 
 - SQL using SQLite and Knex.js
-- HTML5 & CSS3
-- Test Driven Development (TDD) using Jest and React Testing Library
-- Pair programming and Agile practices
-- Distributed version control (Git and GitHub)
+- HTML5 & CSS3, and
+- Test Driven Development using Jest and React Testing Library
 
-Prior to the bootcamp, I was the Operations Manager of a SaaS startup. I led a small team of designers and creatives, managed relationships with key stakeholders, and was responsible for researching many UX elements and product features.
+Prior to the bootcamp, I was the Operations Manager of a SaaS edTech startup. I led a small team of designers and creatives, managed relationships with key stakeholders, and was responsible for researching many UX elements and product features.
 
-## Where I'm going:
+## 🦵 Where I'm going:
 
-I'm particularly interested in text processing and generation, FinTech, horticultural / agricultural tech, and eLearning. I like both front-end and back-end development, but I have a definite soft spot for back-end development and this is where I'll be focusing most of my learning in the immediate future.
+In my own time, I'm particularly interested in text processing and generation, horticultural / agricultural tech, and eLearning. I like making whimsical side projects because they're a fun way to try out something new in a low-stakes environment, and sometimes they incorporate these interests.
 
-On my ever-growing list of technologies to learn, first in line are:
-- C# and .NET
-- TypeScript
-- NoSQL
+I recently started a blog, which you can read at https://rachelmeadows.substack.com.
 
-However, I'll be completing my portfolio and refactoring some old projects before I dive into these!
+My current priorities (outside of work and hobbies) are to tidy up my exceedingly-outdated portfolio, keep on blogging, and build some fun things with my recently-aquired arduinos and Raspberry Pi!
 
-## Connect with me:
-Feel free to add me on [**LinkedIn**](https://www.linkedin.com/in/rachel-meadows/) if you have questions about a repo, a project you want to collaborate on, or are interested in chatting about careers.
+## ✉️ Connect with me:
+Feel free to add me on [LinkedIn](https://www.linkedin.com/in/rachel-meadows/) if you have questions about a repo, a project you want to collaborate on, or are interested in chatting about careers.
 
-<!---
-rachel-meadows/rachel-meadows is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Did I mention I have a blog? I have a blog. [Take a look](https://rachelmeadows.substack.com)!
