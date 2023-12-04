@@ -1,5 +1,7 @@
 # Hi, I’m Rachel!
 
+_Note: As per tradition, this README is somewhat outdated, while my public projects are currently very outdated._
+
 ## 💻 Where I'm at:
 I'm a full-stack junior software engineer. In my day-to-day I work mostly with C# / .NET and SQL Server, but I have experience in React / Node.js as well and tend to use JavaScript for my personal projects.
 
